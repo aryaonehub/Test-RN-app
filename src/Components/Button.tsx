@@ -35,18 +35,18 @@ const styles = StyleSheet.create({
     width: '100%',
   },
   primary: {
-    paddingVertical: 18,
+    paddingVertical: 15,
     paddingHorizontal: 32,
     backgroundColor: '#10CA84',
   },
   secondary: {
-    paddingVertical: 18,
+    paddingVertical: 15,
     paddingHorizontal: 32,
     borderWidth: 1,
     borderColor: '#292D39',
   },
   danger: {
-    paddingVertical: 18,
+    paddingVertical: 15,
     paddingHorizontal: 32,
     backgroundColor: '#FF4C4C',
   },
